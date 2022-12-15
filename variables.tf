@@ -36,7 +36,7 @@ variable "content_map" {
 
 variable "file_list" {
   type = list
-  default = ["/home/practicevm1/Day1/terraform-variables/file1.txt","/home/pract                                                                             icevm1/Day1/terraform-variables/file2.txt"]
+  default = ["/home/practicevm1/Day1/terraform-variables/file1.txt","/home/practicevm1/Day1/terraform-variables/file2.txt"]
 }
 
 variable "aws_ec2_object" {
